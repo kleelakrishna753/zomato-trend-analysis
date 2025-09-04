@@ -1,0 +1,5 @@
+google-play-scraper
+pandas
+openai
+python-dotenv
+scikit-learn
