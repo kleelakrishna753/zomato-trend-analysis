@@ -1,5 +1,4 @@
 google-play-scraper
+openai==0.28
 pandas
-openai
-python-dotenv
-scikit-learn
+numpy
